@@ -1,0 +1,6 @@
+[submodule "webflyx"]
+	path = webflyx
+	url = https://github.com/bernd3k/webflyx.git
+[submodule "asteroids"]
+	path = asteroids
+	url = https://github.com/bernd3k/asteroids.git
